@@ -1,0 +1,14 @@
+short-name = prj
+long-name = Prj
+id = prj-1
+version = 1.0.0
+build-date = 2019-04-21
+build-number = 1
+author = ghofrane
+author-url = http://ghofrane-company.com
+author-affiliation = ghofrane company
+default-public-theme = crew
+default-private-theme = adminlte
+config.company=My Company
+config.country=Tunisia
+config.industry=Products 
